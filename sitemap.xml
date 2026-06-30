@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.eastbridgetechnologies.com/</loc></url>
-  <url><loc>https://www.eastbridgetechnologies.com/about.html</loc></url>
-  <url><loc>https://www.eastbridgetechnologies.com/services.html</loc></url>
-  <url><loc>https://www.eastbridgetechnologies.com/solutions.html</loc></url>
-  <url><loc>https://www.eastbridgetechnologies.com/industries.html</loc></url>
-  <url><loc>https://www.eastbridgetechnologies.com/partners.html</loc></url>
-  <url><loc>https://www.eastbridgetechnologies.com/csr.html</loc></url>
-  <url><loc>https://www.eastbridgetechnologies.com/contact.html</loc></url>
+<url><loc>https://www.eastbridgetechnologies.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://www.eastbridgetechnologies.com/about.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.eastbridgetechnologies.com/services.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.eastbridgetechnologies.com/solutions.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.eastbridgetechnologies.com/industries.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.eastbridgetechnologies.com/training.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.eastbridgetechnologies.com/advisory.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.eastbridgetechnologies.com/partners.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.eastbridgetechnologies.com/csr.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.eastbridgetechnologies.com/contact.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
